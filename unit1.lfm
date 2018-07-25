@@ -8,9 +8,9 @@ object Form1: TForm1
   ClientWidth = 320
   LCLVersion = '1.6.4.0'
   object ToggleBox1: TToggleBox
-    Left = 144
+    Left = 48
     Height = 23
-    Top = 136
+    Top = 72
     Width = 90
     Caption = 'ToggleBox1'
     TabOrder = 0
